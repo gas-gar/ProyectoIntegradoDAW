@@ -1,0 +1,59 @@
+body
+{
+  background-color: #eeeeee;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+
+footer
+{
+  margin-top: 30px;
+  border-top: 1px solid #c4c4c4;
+  height: 100%;
+  padding-top: 15px;
+}
+
+.container-footer
+{
+  background-color: #444444;
+}
+
+.frm_login_email
+{
+  margin-bottom: 10px;
+}
+
+.frm_login_pass
+{
+   margin-bottom: 20px;
+}
+
+.error
+{
+  color: red;
+  padding-bottom: 20px;
+}
+
+.size-300
+{
+  with: 100px;
+}
+.titulo_p{
+  margin: auto;
+  text-align: center;
+}
+.img{
+  width: 500px;
+  height: 500px;
+  align: center;
+}
+.res{
+  width: 200px;
+  height: 200px;
+}
+.tit{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
